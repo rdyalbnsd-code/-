@@ -69,4 +69,4 @@ async def unmute(ctx, member: discord.Member):
         await ctx.send("❌ تعذر فك الميوت عن هذا العضو.")
 
 # ⚠️ ضع التوكن السري الخاص ببوتك هنا بين علامتي التنصيص
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("1544039452815654934")
